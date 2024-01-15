@@ -2,6 +2,6 @@
 ###### Assignment: GitHub, Jupyter, Python, Numpy Certificates <br>
 Record of completed LinkedIn Learning courses <br>
 
-1. ![Introducing Jupyter]()
-2. ![Python Quick Start]()
-3. ![NumPy Essential Training: 1 Foundations of NumPy]()
+1. [Introducing Jupyter](Certification/Introducing_Jupyter.png)
+2. [Python Quick Start]()
+3. [NumPy Essential Training: 1 Foundations of NumPy]()
