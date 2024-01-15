@@ -1,5 +1,5 @@
 # Course-Certificates
-######Assignment: GitHub, Jupyter, Python, Numpy Certificates
+###### Assignment: GitHub, Jupyter, Python, Numpy Certificates <br>
 Record of completed LinkedIn Learning courses <br>
 
 1. ![Introducing Jupyter]()
